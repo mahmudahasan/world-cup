@@ -1,0 +1,7 @@
+/* common styles */
+body{
+    font-family: 'Poppins', sans-serif;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 50px;
+}
