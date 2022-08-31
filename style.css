@@ -145,3 +145,35 @@ body{
     margin: 50px 0;
     display: none;
 }
+
+/* footer part  */
+footer{
+    background-color: black;
+}
+footer h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px 0 20px 0;
+}
+footer hr{
+    margin-bottom: 20px;
+}
+.contact-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contact-details a {
+    color: white;
+    text-decoration: none;
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0;
+}
+.icons .fa-brands{
+    font-size: 30px;
+    color: white;
+}
